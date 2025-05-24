@@ -3,7 +3,7 @@
 هذه الصفحة عبارة عن واجهة تعريفية بسيطة لموقع [freecompresor.com](https://freecompresor.com) الذي يقدم أداة مجانية لضغط الصور بأعلى جودة ودون الحاجة إلى تحميل أي برامج.
 
 ## 🌐 رابط الصفحة المباشرة على GitHub Pages:
-[https://username.github.io/my-website-page](https://username.github.io/my-website-page)
+[https://username.github.io/my-website-page](https://amincoderone.github.io/freecompresor/)
 
 > (قم بتعديل `username` و`my-website-page` وفقًا لاسم حسابك والمستودع)
 
